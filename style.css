@@ -39,7 +39,7 @@ body {
 
 /* Заголовок */
 h1 {
-  color: #2a56ac;
+  color: #de342a;
   font-size: 26px;
   margin-bottom: 25px;
 }
@@ -47,7 +47,7 @@ h1 {
 /* Кнопка */
 .btn {
   display: inline-block;
-  background-color: #2a56ac;
+  background-color: #de342a;
   color: #fff;
   text-decoration: none;
   font-weight: bold;
@@ -85,4 +85,5 @@ h1 {
     font-size: 15px;
   }
 }
+
 
