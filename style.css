@@ -57,7 +57,7 @@ h1 {
 }
 
 .btn:hover {
-  background-color: #1f4599;
+  background-color: #8B0000;
 }
 
 /* Мобильная адаптация */
@@ -85,5 +85,6 @@ h1 {
     font-size: 15px;
   }
 }
+
 
 
